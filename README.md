@@ -13,11 +13,9 @@
 
 #### 技术栈
 
-> [Express框架](https://www.expressjs.com.cn/)
->
-> [Cheerio中文](https://github.com/cheeriojs/cheerio/wiki/Chinese-README)
->
-> [Superagent](https://www.npmjs.com/package/superagent)
+- [Express框架](https://www.expressjs.com.cn/)
+- [Cheerio中文](https://github.com/cheeriojs/cheerio/wiki/Chinese-README)
+- [Superagent](https://www.npmjs.com/package/superagent)
 
 #### 依赖安装
 
