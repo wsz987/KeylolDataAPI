@@ -9,7 +9,7 @@
 >
 > 请勿恶意使用 如有侵权   请联系论坛ID: wsz987 -- Github这边不常看
 >
-> 大爱GAY坛
+> ♥ GAY坛
 
 #### 技术栈
 
@@ -108,13 +108,13 @@ app.all('*', function (req, res, next) {
 
 #### 接口路径
 
-> **主页** (无参)
+> [**主页**](https://keylol.com/forum.php?m=index&mobile=2) (无参)
 
 ```
 /api/index
 ```
 
-> **导读**
+> [**导读**](https://keylol.com/forum.php?mod=guide&view=hot&mobile=2)
 >
 > 最新热门; hot
 >
@@ -132,7 +132,7 @@ app.all('*', function (req, res, next) {
 /api/view/:view?page=1
 ```
 
-> **版块列表**
+> [**版块列表**](https://keylol.com/forum.php?forumlist=1&mobile=2) (无参)
 
 ```
 /api/forumlist
@@ -144,7 +144,7 @@ app.all('*', function (req, res, next) {
 /api/post/:t
 ```
 
-> **版块内容列表**
+> [**版块内容列表**](https://keylol.com/f148-1)
 >
 > `fid`  支持俩格式  `/api/subtypes/f123-1`  **等效**于 `/api/subtypes/123?page=1`
 >
@@ -162,3 +162,4 @@ app.all('*', function (req, res, next) {
 ```
 
 #### 其他详细信息请查看返回JSON 无状态码返回 默认 status=200
+
