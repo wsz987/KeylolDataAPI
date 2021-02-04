@@ -1,0 +1,392 @@
+[
+	{
+		"index": 1,
+		"navName": "平台周边",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "热点聚焦",
+				"href": "f161-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f161.png"
+			},
+			{
+				"index": 1,
+				"forumname": "平台工具",
+				"href": "f127-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f127.png"
+			},
+			{
+				"index": 2,
+				"forumname": "华语汉化",
+				"href": "f257-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f257.png"
+			},
+			{
+				"index": 3,
+				"forumname": "成就指南",
+				"href": "f235-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f235.png"
+			},
+			{
+				"index": 4,
+				"forumname": "游戏互鉴",
+				"href": "f129-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f129.png"
+			},
+			{
+				"index": 5,
+				"forumname": "福利放送",
+				"href": "f319-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f319.png"
+			},
+			{
+				"index": 6,
+				"forumname": "购物心得",
+				"href": "f234-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f234.png"
+			},
+			{
+				"index": 7,
+				"forumname": "慈善包",
+				"href": "f271-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f271.png"
+			},
+			{
+				"index": 8,
+				"forumname": "分享互赠",
+				"href": "f254-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f254.png"
+			},
+			{
+				"index": 9,
+				"forumname": "资源载点",
+				"href": "f189-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f189.png"
+			}
+		]
+	},
+	{
+		"index": 2,
+		"navName": "问题互助",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "技术问题",
+				"href": "f301-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f301.png"
+			},
+			{
+				"index": 1,
+				"forumname": "购物问题",
+				"href": "f302-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f302.png"
+			},
+			{
+				"index": 2,
+				"forumname": "社区问题",
+				"href": "f304-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f304.png"
+			},
+			{
+				"index": 3,
+				"forumname": "游戏／成就问题",
+				"href": "f303-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f303-a.png"
+			},
+			{
+				"index": 4,
+				"forumname": "福利／软硬／其他",
+				"href": "f322-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f322.png"
+			}
+		]
+	},
+	{
+		"index": 3,
+		"navName": "游戏讨论",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "综合讨论",
+				"href": "f251-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f251.png"
+			},
+			{
+				"index": 1,
+				"forumname": "威乐",
+				"href": "f244-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f244.png"
+			},
+			{
+				"index": 2,
+				"forumname": "艺电",
+				"href": "f246-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f246.png"
+			},
+			{
+				"index": 3,
+				"forumname": "育碧",
+				"href": "f245-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f245.png"
+			},
+			{
+				"index": 4,
+				"forumname": "动视暴雪",
+				"href": "f248-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f248.png"
+			},
+			{
+				"index": 5,
+				"forumname": "虚拟现实",
+				"href": "f339-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f339.png"
+			},
+			{
+				"index": 6,
+				"forumname": "侠盗猎车手",
+				"href": "f312-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f312.png"
+			},
+			{
+				"index": 7,
+				"forumname": "明日方舟",
+				"href": "f337-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f337.png"
+			},
+			{
+				"index": 8,
+				"forumname": "刀塔霸业",
+				"href": "f338-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f338.png"
+			},
+			{
+				"index": 9,
+				"forumname": "刀塔",
+				"href": "f305-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f305.png"
+			},
+			{
+				"index": 10,
+				"forumname": "全球攻势",
+				"href": "f299-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 11,
+				"forumname": "生存类游戏",
+				"href": "f291-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f291.png"
+			}
+		]
+	},
+	{
+		"index": 4,
+		"navName": "论坛周边",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "谈天说地",
+				"href": "f148-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f148.png"
+			},
+			{
+				"index": 1,
+				"forumname": "旅游摄影",
+				"href": "f259-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 2,
+				"forumname": "美食烹饪",
+				"href": "f273-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 3,
+				"forumname": "软硬兼施",
+				"href": "f200-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 4,
+				"forumname": "开箱晒物",
+				"href": "f330-1",
+				"icon": "https://keylol.com/undefined"
+			}
+		]
+	},
+	{
+		"index": 5,
+		"navName": "友商平台",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "Epic Games",
+				"href": "f335-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f335.png"
+			},
+			{
+				"index": 1,
+				"forumname": "Origin",
+				"href": "f232-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f232.png"
+			},
+			{
+				"index": 2,
+				"forumname": "Uplay",
+				"href": "f274-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f274.png"
+			},
+			{
+				"index": 3,
+				"forumname": "杉果",
+				"href": "f316-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f316.png"
+			},
+			{
+				"index": 4,
+				"forumname": "GOG",
+				"href": "f276-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f276.png"
+			},
+			{
+				"index": 5,
+				"forumname": "Windows 商店",
+				"href": "f326-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f326.png"
+			},
+			{
+				"index": 6,
+				"forumname": "方块游戏平台",
+				"href": "f332-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f332.png"
+			},
+			{
+				"index": 7,
+				"forumname": "腾讯 WeGame",
+				"href": "f325-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f325.png"
+			},
+			{
+				"index": 8,
+				"forumname": "主机平台",
+				"href": "f275-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f275-a.png"
+			},
+			{
+				"index": 9,
+				"forumname": "移动平台",
+				"href": "f328-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f328.png"
+			},
+			{
+				"index": 10,
+				"forumname": "其他平台",
+				"href": "f277-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f277.png"
+			}
+		]
+	},
+	{
+		"index": 6,
+		"navName": "天邈汉化组",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "汉化发布",
+				"href": "f280-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f280.png"
+			},
+			{
+				"index": 1,
+				"forumname": "成员招募",
+				"href": "f281-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 2,
+				"forumname": "反馈讨论",
+				"href": "f282-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 3,
+				"forumname": "汉化索引",
+				"href": "f297-1",
+				"icon": "https://keylol.com/undefined"
+			}
+		]
+	},
+	{
+		"index": 7,
+		"navName": "蒹葭汉化组",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "汉化发布",
+				"href": "f293-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f293.png"
+			},
+			{
+				"index": 1,
+				"forumname": "成员招募",
+				"href": "f294-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 2,
+				"forumname": "反馈讨论",
+				"href": "f295-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 3,
+				"forumname": "汉化索引",
+				"href": "f296-1",
+				"icon": "https://keylol.com/undefined"
+			}
+		]
+	},
+	{
+		"index": 8,
+		"navName": "起源汉化组",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "汉化发布",
+				"href": "f307-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f307.png"
+			},
+			{
+				"index": 1,
+				"forumname": "招募成员",
+				"href": "f308-1",
+				"icon": "https://keylol.com/undefined"
+			},
+			{
+				"index": 2,
+				"forumname": "反馈讨论",
+				"href": "f309-1",
+				"icon": "https://keylol.com/undefined"
+			}
+		]
+	},
+	{
+		"index": 9,
+		"navName": "社区服务",
+		"children": [
+			{
+				"index": 0,
+				"forumname": "社区公告",
+				"href": "f140-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f140.png"
+			},
+			{
+				"index": 1,
+				"forumname": "社区活动",
+				"href": "f238-1",
+				"icon": "https://keylol.com/template/steamcn_metro/src/img/forum-icons/f238.png"
+			}
+		]
+	}
+]
